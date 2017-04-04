@@ -1,0 +1,16 @@
+table,th {
+   border: 1px solid black;
+   padding: 35px;
+}
+#inp {
+  margin-top: 60px;
+}
+.colorMatch{
+  background-color: green;
+}
+.color1{
+  background-color: red;
+}
+.color2{
+  background-color: yellow;
+}
